@@ -3,42 +3,42 @@
         {
             "category":"kids",
             "name":"Chota Bheem",
-            "time":"5/29/2019"
+            "time":"2019-05-29"
         },
         {
             "category":"kids",
             "name":"Spiderman",
-            "time":"5/29/2019"
+            "time":"2019-05-29"
         },
         {
             "category":"kids",
             "name":"The great Bheem",
-            "time":"5/30/2019"
+            "time":"2019-05-30"
         },
         {
             "category":"kids",
             "name":"Amazing Spiderman",
-            "time": "5/30/2019"
+            "time": "2019-05-30"
         },
         {
             "category":"adults",
             "name":"Flash",
-            "time":"5/29/2019"
+            "time":"2019-05-29"
         },
         {
             "category":"adults",
             "name":"Friends",
-            "time":"5/29/2019"
+            "time":"2019-05-29"
         },
         {
             "category":"adults",
             "name":"Game of thrones",
-            "time":"5/30/2019"
+            "time":"2019-05-30"
         },
         {
             "category":"adults",
             "name":"Riverdale",
-            "time":"5/30/2019"
+            "time":"2019-05-30"
         }
     ]
 }
