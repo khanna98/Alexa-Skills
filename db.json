@@ -6,11 +6,6 @@
         },
         {
             "category":"kids",
-            "name":"Spiderman",
-            "time":"2019-05-29"
-        },
-        {
-            "category":"kids",
             "name":"The great Bheem",
             "time":"2019-05-30"
         },
@@ -21,22 +16,7 @@
         },
         {
             "category":"adults",
-            "name":"Flash",
-            "time":"2019-05-29"
-        },
-        {
-            "category":"adults",
-            "name":"Friends",
-            "time":"2019-05-29"
-        },
-        {
-            "category":"adults",
             "name":"Game of thrones",
-            "time":"2019-05-30"
-        },
-        {
-            "category":"adults",
-            "name":"Riverdale",
             "time":"2019-05-30"
         }
 ]
