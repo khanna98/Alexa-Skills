@@ -1,0 +1,22 @@
+[
+  {
+    "category" : "kids",
+    "name" : "Chota Bheem"
+  },
+  {
+    "category": "adults",
+    "name" : "Game Of Thrones"
+  },
+  {
+    "category" : "kids",
+    "name" : "Spiderman"
+  },
+  {
+    "category" : "adults",
+    "name" : "Friends"
+  },
+  {
+    "category" : "kids",
+    "name" : "Ben 10"
+  }
+]
