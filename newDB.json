@@ -1,0 +1,46 @@
+[
+    {
+      "category" : "kids",
+      "name" : "Chota Bheem",
+      "date" : "2019-05-30"
+    },
+    {
+      "category": "adults",
+      "name" : "Game Of Thrones",
+      "date" : "2019-05-30"
+    },
+    {
+      "category" : "kids",
+      "date" : "2019-05-30",
+      "name" : "Spiderman"
+      
+    },
+    {
+      "category" : "adults",
+      "date" : "2019-05-30",
+      "name" : "Friends"
+      
+    },
+    {
+      "category" : "kids",
+      "date" : "2019-05-31",
+      "name" : "Ben 10"
+      
+    },
+    {
+      "category" : "kids",
+      "date" : "2019-05-31",
+      "name" : "Tom and Jerry"
+      
+    },
+    {
+      "category" : "adults",
+      "date" : "2019-05-31",
+      "name" : "Sherlock Holmes"
+    },
+    {
+      "category" : "adults",
+      "date" : "2019-05-31",
+      "name" : "Man VS Wild"
+    }
+  ]
